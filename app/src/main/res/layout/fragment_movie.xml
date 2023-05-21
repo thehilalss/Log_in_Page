@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MovieFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:background="@drawable/movie1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="‘Akıl Oyunları,’ orijinal adıyla ‘A Beautiful Mind’ filminin konusunu özetlemek gerekirse; öğrencilik yıllarında oyun kuramını geliştiren dahi ve Nobel ödüllü matematik profesörü John Nash, delilik ve dahilik arasındaki sınırı karıştırmaya başlamıştır. Egosu ve hırsı ön planda olan Nash, mezun olana dek paranoid şizofren olduğunun farkında bile değildir. Yönetmenliğini Ron Howard’ın yaptığı 2001 yapımı Akıl Oyunları’nın başrollerinde ise Russel Crowe, Ed Harris ve Jennifer Connelly yer alıyor. 2002 Akademi Ödülleri’nde “En İyi Film” ve “En İyi Yönetmen” kategorileri de dahil olmak üzere 6 dalda Oscar’a layık görülen ‘Akıl Oyunları’(A Beautiful Mind), aynı sene BAFTA ve Altın Küre Ödülleri’nde de önemli ödüller elde etmiştir."
+                android:textSize="20dp"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:background="@drawable/movie22" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gelmiş geçmiş en ünlü mafya serisi/üçlemesi ‘Baba’, orijinal ismiyle ‘The Godfather’ı bilmeyen çok azdır. Francis Ford Coppola yönetmenliğinde çekilen, hepsi birer sinema şaheseri olan 3 film de izlemeden ölmemeniz gereken filmlerden bizce. Sicilyalı mafya ailesi Corleoneler’i merkezine alan filmde aile reisi olan “Baba”yı efsanevi aktör Marlon Brando canlandırırken, Don Vito Corleone’nin oğlu, veliaht Michael Corleone’yiyse Al Pacino canlandırıyor. Diane Keaton ve Robert De Niro’nun da kadrosunda yer aldığı film üçlemesi ‘The Godfather’, “En İyi Film” de dahil kazandığı 3 Oscar Ödülü’yle, Oscar Ödülleri’ne doymayan yapımlardan. Etkileyici tema müziği, çekildiği yıllar olan 70’lere göre oldukça ileride olan yapım tekniği, inanılmaz oyunculukları, Don Vito Corleone’nin Ona reddedemeyeceği bir teklif yapacağım. repliği gibi akılda kalan replikleriyle ‘Baba’ üçlemesini izlemeyen bin pişman!"
+                android:textSize="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:background="@drawable/movie3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tim Burton yönetmenliğinde çekilen fantastik drama filmi ‘Büyük Balık’, orijinal ismiyle ‘Big Fish’, izleyiciye hem keyifli hem de hüzünlü dakikalar sunuyor. 2003 yapımı filmin başrollerinde Ewan McGregor, Billy Crudup, Albert Finney ve Helena Bonham Carter gibi usta isimler yer alıyor. Daniel Wallace’ın aynı isimli romanından John August tarafından uyarlanan ‘Büyük Balık’, gençliğinden beri hikaye anlatmayı çok seven, ölüm döşeğindeki bir adamın anlattığı hikayeleri konu alıyor ve bu hikayeleri geri dönüşlerle ekrana yansıtıyor. Yaşlı adamın yaşama sevinci ve hayal gücü tüm gençlere örnek olabilecek nitelikte. Hayatı yaşamaya değer kılan şeyin hayal kurmak olduğunu çok naif bir şekilde konu alan ‘Büyük Balık’, hayata bakışınızı değiştirebilecek ve umutlarınızı yeşertecek nitelikte bir film."
+                android:textSize="20dp"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:background="@drawable/movie5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="J.R.R. Tolkien'in usta kaleminden çıkmış 'Yüzüklerin Efendisi', orijinal adıyla 'Lord of the Rings' üçlemesi, epik ve dramatik bir yetişkin masalı. Hobbitler, elfler gibi birçok kurgusal ırkı hayal dünyamıza kazandırmış olan seri, büyüleyici müzikleri, yarattığı Orta Dünya evreni ve kostümleriyle bir nesille beraber büyüdü. Yönetmenliğini Peter Jackson'ın üstlendiği, başrollerinde Elijah Wood, Viggo Mortensen, Liv Tyler, Orlando Bloom ve Ian McKellen gibi isimlerin bulunduğu Yüzüklerin Efendisi üçlemesini hala izlemediyseniz mutlaka izlemelisiniz. Yüzük Kardeşliği(2001), İki Kule(2002) ve Kralın Dönüşü(2003) adındaki üç muazzam filmiyle Yüzüklerin Efendisi üçlemesi Oscar'a sayısız adaylık ve toplamda 17 ödülle damga vurmuş fantastik bir seridir."
+                android:textSize="20dp"
+                />
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</LinearLayout>
